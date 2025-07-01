@@ -1,1 +1,1 @@
-# Genai_study
+ Genai study case
