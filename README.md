@@ -1,1 +1,1 @@
- Genai study case
+Generative ai study case
