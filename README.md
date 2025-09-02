@@ -1,1 +1,1 @@
-Generative ai for ai study case
+Generative ai for done ai study case
