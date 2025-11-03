@@ -1,1 +1,1 @@
-Generative ai for sample done is a ai study case
+Generative ai for sample do then is a ai study case
